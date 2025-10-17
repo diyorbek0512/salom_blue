@@ -1,3 +1,21 @@
+try:
+    # Some environments (or newer/altered marshmallow builds) may not expose
+    # __version_info__ which older libraries expect. Add a compatibility shim
+    # early during startup so imports that check that attribute don't fail.
+    import marshmallow as _marshmallow
+    if not hasattr(_marshmallow, "__version_info__"):
+        ver = getattr(_marshmallow, "__version__", None)
+        if ver:
+            try:
+                _marshmallow.__version_info__ = tuple(int(x) for x in ver.split('.') if x.isdigit())
+            except Exception:
+                # fall back to a harmless empty tuple
+                _marshmallow.__version_info__ = ()
+except Exception:
+    # If marshmallow isn't installed yet or something goes wrong, continue
+    # and let the normal dependency errors surface later.
+    pass
+
 from aiogram import executor, types
 
 from loader import dp
