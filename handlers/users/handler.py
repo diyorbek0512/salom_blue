@@ -44,7 +44,7 @@ async def Money(message: types.Message):
 BluePrep sizni <b>BEPUL Live Vebinarga</b> taklif qiladi  
 (Prezident Maktabi bitiruvchilaridan hech kim aytmagan <b>SIRLAR</b>ni bilib oling 💡)
 
-📅 <b>Sana:</b> 20-oktabr, 2025  
+📅 <b>Sana:</b> 21-oktabr, 2025  
 🕒 <b>Vaqt:</b> 20:00
 
 🎙 <b>Mehmonlarimiz:</b>  
@@ -79,7 +79,7 @@ BluePrep sizni <b>BEPUL Live Vebinarga</b> taklif qiladi
 BluePrep sizni <b>BEPUL Live Vebinarga</b> taklif qiladi  
 (Prezident Maktabi bitiruvchilaridan hech kim aytmagan <b>SIRLAR</b>ni bilib oling 💡)
 
-📅 <b>Sana:</b> 20-oktabr, 2025  
+📅 <b>Sana:</b> 21-oktabr, 2025  
 🕒 <b>Vaqt:</b> 20:00
 
 🎙 <b>Mehmonlarimiz:</b>  
