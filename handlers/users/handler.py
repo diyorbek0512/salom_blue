@@ -49,7 +49,7 @@ BluePrep sizni <b>BEPUL Live Vebinarga</b> taklif qiladi
 
 🎙 <b>Mehmonlarimiz:</b>  
 👨‍🎓 <b>Diyorbek Bahodirov</b> — Prezident maktabiga IKKALA BOSQICHdan ham 1-o‘rinda o'tgan, "BluePrep"ning ham-asoschisi, Xalqaro StemCo matematika olimpiadasining "Oltin" medali sohibi, hozirda Toshkent Xalqaro Vestminster universitetida 2-bosqich talabasi.  
-👩‍🎓 <b>Laylo Hoshimova</b> — Prezident maktabi bitiruvchisi, 1 yilda 18 nafar o‘quvchilarni Prezident Maktabida o‘qishida shaxsiy metodikasi orqali hissa qo‘shgan, hozirda Yangi O‘zbekiston universitetining 3-bosqich talabasi.  
+👩‍🎓 <b>Laylo Xoshimboyeva</b> — Prezident maktabi bitiruvchisi, 1 yilda 18 nafar o‘quvchilarni Prezident Maktabida o‘qishida shaxsiy metodikasi orqali hissa qo‘shgan, hozirda Yangi O‘zbekiston universitetining 3-bosqich talabasi.  
 
 🔥 <b>Eksklyuziv Vebinarda sizni nimalar kutmoqda:</b>  
 💥 PM bitiruvchilarining ishlatgan va kitobda tilga olinmaydigan usullari  
